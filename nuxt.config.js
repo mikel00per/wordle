@@ -5,7 +5,9 @@ export default {
   srcDir: 'src/',
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
-
+  router: {
+    base: '/wordle/'
+  },
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'Wordle',
