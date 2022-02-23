@@ -52,55 +52,7 @@
       </template>
       <template slot="footer">
         <p class="note note--aligned">
-          <span>Developed by <b>Diego Bonavida</b>.</span>
-          <a
-            href="mailto:dbonavidafrances@gmail.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="link"
-            ><EmailIcon
-              class="icon icon--smaller"
-              :class="{ 'icon--colorblind': colorBlindMode }"
-          /></a>
-          <a
-            href="https://github.com/bonavida"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="link"
-            ><GitHubIcon
-              class="icon"
-              :class="{ 'icon--colorblind': colorBlindMode }"
-          /></a>
-        </p>
-        <p class="note note--aligned">
-          <span>Wordle API provided by <b>Javi Mollà</b>.</span>
-          <a
-            href="https://github.com/jmolla31"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="link"
-            ><GitHubIcon
-              class="icon"
-              :class="{ 'icon--colorblind': colorBlindMode }"
-          /></a>
-        </p>
-        <p class="note">
-          This is is my own adaptation of the original word-guessing game
-          <a
-            href="https://www.powerlanguage.co.uk/wordle/"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="link"
-            >Wordle</a
-          >
-          developed by
-          <a
-            href="https://www.powerlanguage.co.uk/"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="link"
-            >Josh Wardle</a
-          >.
+          <span>Besitos del <b>Mike</b>.</span>
         </p>
       </template>
     </Modal>
